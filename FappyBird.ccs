@@ -1,0 +1,40 @@
+<Solution>
+  <PropertyGroup Name="FappyBird" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="0.png" />
+        <Image Name="1.png" />
+        <Image Name="2.png" />
+        <Image Name="3.png" />
+        <Image Name="4.png" />
+        <Image Name="5.png" />
+        <Image Name="6.png" />
+        <Image Name="7.png" />
+        <Image Name="8.png" />
+        <Image Name="9.png" />
+        <Image Name="background-day.png" />
+        <Image Name="background-night.png" />
+        <Image Name="base.png" />
+        <Project Name="Bird.csd" Type="Node" />
+        <Image Name="bluebird-downflap.png" />
+        <Image Name="bluebird-midflap.png" />
+        <Image Name="bluebird-upflap.png" />
+        <Image Name="gameover.png" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="message.png" />
+        <Project Name="Node.csd" Type="Node" />
+        <Image Name="pipe-green.png" />
+        <Image Name="pipe-red.png" />
+        <Image Name="redbird-downflap.png" />
+        <Image Name="redbird-midflap.png" />
+        <Image Name="redbird-upflap.png" />
+        <Project Name="Tube.csd" Type="Node" />
+        <Image Name="yellowbird-downflap.png" />
+        <Image Name="yellowbird-midflap.png" />
+        <Image Name="yellowbird-upflap.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
